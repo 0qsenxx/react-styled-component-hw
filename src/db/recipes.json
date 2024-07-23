@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Smoked salmon burger",
+    "url": "https://cdn-bbjbp.nitrocdn.com/SSVGAtCYdWRWEpvOJtLKRideiHOVcuRT/assets/images/optimized/rev-2a3b5ac/www.bonappeteach.com/wp-content/uploads/2022/08/Smoked-Salmon-Burgers-14.jpg.webp",
+    "time": 20,
+    "servings": 6,
+    "callories": 210,
+    "difficalty": "Easy",
+    "id": 1
+  },
+  {
+    "name": "Tomatos With Creamy Feta",
+    "url": "https://assets.bonappetit.com/photos/62b4926736e0c90647da6b71/1:1/w_2240,c_limit/0623-diana-yen-tomato-recipe-lede.jpg",
+    "time": 15,
+    "servings": 3,
+    "callories": 600,
+    "difficalty": "Easy",
+    "id": 2
+  },
+  {
+    "name": "Spicy potato saled",
+    "url": "https://assets.bonappetit.com/photos/62bf35ae872a6cfbb260f286/1:1/w_2240,c_limit/0701-tj-recipe-potato-v2.jpg",
+    "time": 30,
+    "servings": 2,
+    "callories": 320,
+    "difficalty": "Medium",
+    "id": 3
+  },
+  {
+    "name": "Chiken Biryani",
+    "url": "https://static01.nyt.com/images/2023/11/29/multimedia/ND-Biryani-zpkh/ND-Biryani-zpkh-googleFourByThree-v4.jpg",
+    "time": 40,
+    "servings": 4,
+    "callories": 700,
+    "difficalty": "Hard",
+    "id": 4
+  }
+]
